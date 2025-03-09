@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The **FeaastFlow - Event RSVP System** is a full-stack web application that allows users to create, manage, and RSVP to events. It provides an intuitive interface for event hosts and attendees while ensuring secure data handling and email notifications.
+The **FeastFlow - Event RSVP System** is a full-stack web application that allows users to create, manage, and RSVP to events. It provides an intuitive interface for event hosts and attendees while ensuring secure data handling and email notifications.
 
 ## 🚀 Tech Stack
 
