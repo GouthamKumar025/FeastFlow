@@ -1,0 +1,26 @@
+.slick-prev:before,
+.slick-next:before {
+  color: white !important;
+  font-size: 30px !important;
+  opacity: 0.75 !important;
+  transition: opacity 0.3s !important;
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  opacity: 1 !important;
+}
+
+.slick-dots li.slick-active div {
+  opacity: 1 !important;
+  transform: scale(1.2) !important;
+}
+
+.slick-slide > div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.slick-list {
+  overflow: visible !important;
+}
