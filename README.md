@@ -162,7 +162,7 @@ Start the server
 ![LoginPage](assets/Loginform.png)
 
 #### Signup Page
-![SignUpPage](assets/Signup_Page.png)
+![SignUpPage](assets/Signup_page.png)
 
 #### About Page
 ![About](assets/About.png)
