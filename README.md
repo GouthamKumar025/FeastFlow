@@ -158,10 +158,23 @@ Start the server
 
 ## Screenshots
 
+#### Login Page
 ![LoginPage](assets/Loginform.png)
-![SignUpPage](.assets/Signup_Page.png)
-![About](.assets/About.png)
-![Home](.assets/Homepage.png)
-![EventForm](.assets/EventForm.png)
-![EventPage](.assets/EventPage.png)
-![Contact](.assets/Contact.png)
+
+#### Signup Page
+![SignUpPage](assets/Signup_Page.png)
+
+#### About Page
+![About](assets/About.png)
+
+#### Home Page
+![Home](assets/Homepage.png)
+
+#### Event Form Page
+![EventForm](assets/EventForm.png)
+
+#### Event Page
+![EventPage](assets/EventPage.png)
+
+#### Contact Page
+![Contact](assets/Contact.png)
