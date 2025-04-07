@@ -158,7 +158,7 @@ Start the server
 
 ## Screenshots
 
-![LoginPage](.assets/Loginform.png)
+![LoginPage](assets/Loginform.png)
 ![SignUpPage](.assets/Signup_Page.png)
 ![About](.assets/About.png)
 ![Home](.assets/Homepage.png)
