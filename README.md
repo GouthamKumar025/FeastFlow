@@ -158,4 +158,10 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![LoginPage](.assets/Loginform.png)
+![SignUpPage](.assets/Signup_Page.png)
+![About](.assets/About.png)
+![Home](.assets/Homepage.png)
+![EventForm](.assets/EventForm.png)
+![EventPage](.assets/EventPage.png)
+![Contact](.assets/Contact.png)
